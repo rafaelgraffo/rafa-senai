@@ -1,6 +1,6 @@
 <HTML>
 <HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
 <BODY>
-   <H1> SIM =D </H1>
+   <H1> Conseguiu unir? </H1>
 </BODY>
 </HTML>
