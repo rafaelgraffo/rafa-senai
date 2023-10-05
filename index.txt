@@ -1,6 +1,10 @@
 <HTML>
 <HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
 <BODY>
+<<<<<<< HEAD
    <H1> Conseguiu unir? </H1>
+=======
+   <H1> SIM </H1>
+>>>>>>> ProgramadorR
 </BODY>
 </HTML>
